@@ -1,6 +1,6 @@
 <!--- header bonitinho --->
 
-<h2 align="center">> Hello, I'm Júlia and I'm learning Web Development</h2>
+<h1 align="center">> Hello, I'm Júlia and I'm learning Web Development</h1>
 <!--- bio bonitinha --->
 
 <div display="flex" align="center">
