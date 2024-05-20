@@ -3,7 +3,7 @@
 <h1 align="center">> Hello, I'm Júlia and I'm learning Web Development</h1>
 <br>
 
-<p>I'm finishing a full-stack technical course and I intend to graduate in SDA eventually✨</p>
+<p display="flex" align="center">I'm finishing a full-stack technical course and I intend to graduate in SDA eventually✨</p>
 <!--- bio bonitinha --->
 
 <div display="flex" align="center">
