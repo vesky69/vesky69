@@ -1,10 +1,11 @@
 <!--- header bonitinho --->
 <img src="https://64.media.tumblr.com/a70a5575bc9f861f3e0313d2fad4d52d/32a8535404dd1f02-db/s1280x1920/05e98139877d71d27ec0ff44cdd4074287fc8959.png"/>   
+
 <h1 align="center">> Hello, I'm Júlia and I'm learning Web Development</h1>
 <br>
 
-<p display="flex" align="center">I'm finishing a full-stack technical course and I intend to graduate in SDA eventually✨</p>
 <!--- bio bonitinha --->
+<p display="flex" align="center">I'm finishing a full-stack technical course and I intend to graduate in SDA eventually✨</p>
 
 <div display="flex" align="center">
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
