@@ -5,7 +5,7 @@
 <br>
 
 <!--- bio bonitinha --->
-<p display="flex" align="center">I'm finishing a full-stack technical course and I intend to graduate in SDA eventually✨</p>
+<p display="flex" align="center">I'm finishing a full-stack and mobile technical course and I intend to graduate in SDA eventually✨</p>
 
 <div display="flex" align="center">
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
