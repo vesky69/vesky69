@@ -5,7 +5,8 @@
 <br>
 
 <!--- bio bonitinha --->
-<p display="flex" align="center">I'm a full-stack developer, I'm currently learning mobile development and I intend to graduate in SDA✨</p>
+<p display="flex" align="center">I'm a full-stack developer, I'm currently cursing SDA in Fatec✨</p>
+<p display="flex" align="center">Experience with UI/UX and mobile📲</p>
 
 <div display="flex" align="center">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
