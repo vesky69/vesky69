@@ -7,7 +7,6 @@
 <!--- bio bonitinha --->
 <p display="flex" align="center">I'm a full-stack developer, I'm currently studying Systems Development Analysis in Fatec✨</p>
 <p display="flex" align="center">Experience with UI/UX and mobile📲</p>
-<p display="flex" align="center">Learning C</p>
 
 <div display="flex" align="center">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
